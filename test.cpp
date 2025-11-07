@@ -6,6 +6,7 @@ int main() {
     cout<<x+y<<endl;
     cout<<x-y<<endl;
     cout<<x*y<<endl;
+    cout<<x/y<<endl;
     cout << "Hello, World!" << endl;
     return 0;
 }
