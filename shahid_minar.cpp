@@ -224,7 +224,7 @@ int main(int argc,char **argv)
 
    glutCreateWindow("Filled Midpoint Circle Inside Rectangle");
 
-
+// shahid minar code
 
    init();
 
